@@ -1,0 +1,57 @@
+[
+    {
+        "id": "198",
+        "nameUz": "Bektimer tumani",
+        "nameRu": "Áåêòåìèðñêèé ðàéîí"
+      },
+      {
+        "id": "199",
+        "nameUz": "Mirzo Ulug'bek tumani",
+        "nameRu": "Ìèðçî-Óëóãáåêñêèé ðàéîí"
+      },
+      {
+        "id": "200",
+        "nameUz": "Mirobod tumani",
+        "nameRu": "Ìèðàáàäñêèé ðàéîí"
+      },
+      {
+        "id": "201",
+        "nameUz": "Olmazor tumani",
+        "nameRu": "Àëìàçàðñêèé ðàéîí"
+      },
+      {
+        "id": "202",
+        "nameUz": "Sirg'ali tumani",
+        "nameRu": "Ñåðãåëèéñêèé ðàéîí"
+      },
+      {
+        "id": "203",
+        "nameUz": "Uchtepa tumani",
+        "nameRu": "Ó÷òåïèíñêèé ðàéîí"
+      },
+      {
+        "id": "204",
+        "nameUz": "Yashnobod tumani",
+        "nameRu": "ßøíîáîäñêèé ðàéîí"
+      },
+      {
+        "id": "205",
+        "nameUz": "Chilonzor tumani",
+        "nameRu": "×èëàíçàðñêèé ðàéîí"
+      },
+      {
+        "id": "206",
+        "nameUz": "Shayxontohur tumani",
+        "nameRu": "Øàéõàíòàõóðñêèé ðàéîí"
+      },
+      {
+        "id": "207",
+        "nameUz": "Yunusobod tumani",
+        "nameRu": "Þíóñàáàäñêèé ðàéîí"
+      },
+      {
+        "id": "208",
+        "nameUz": "Yakkasaroy tumani",
+        "nameRu": "ßêêàñàðàéñêèé ðàéîí"
+      }
+]
